@@ -1,0 +1,6 @@
+{
+  "name": "Nexus OS",
+  "description": "A high-fidelity mobile OS simulation featuring a dynamic clock, functional utility apps, and a polished home screen interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
